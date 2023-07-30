@@ -25,3 +25,5 @@ vless://c2313e3c-8456-44dc-aa0d-ea7cf5cfcdff@tropotaxis.milkywaygalaxy.website:4
 trojan://0c5f61fb-e1a8-4312-9ae1-e110226dec68@freeuk1.661855.xyz:15006/?type=tcp&security=tls&sni=freeuk1.661855.xyz#%F0%9F%87%AC%F0%9F%87%A7DXARK
 trojan://0c5f61fb-e1a8-4312-9ae1-e110226dec68@wtxx.buzz:443/?type=tcp&security=tls#%F0%9F%87%A7%F0%9F%87%B7DXARK
 vless://d000689e-c589-4414-ff0e-2663cc99980e@hw5.kaghazacharrangi.sbs:443/?type=ws&encryption=none&path=%2F#%F0%9F%87%AB%F0%9F%87%AEDXARK
+vmess://eyJhZGQiOiIxMzguNjguNzMuMjkiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiOWJhMDhjNDktNjdlYi00NTk5LWU3ZTQtNzBiNzM2ZTMwMGIzIiwibmV0IjoidGNwIiwicGF0aCI6Ii8iLCJwb3J0IjoiMzczMDUiLCJwcyI6IvCfj7TigI3imKDvuI9EWEFSSyIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiaHR0cCIsInYiOiIyIn0=
+vmess://eyJhZGQiOiIxMDQuMjQ4LjIwNi40MiIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiJlMzkzMzAyMi03ZTdkLTQ0ZGEtYTNmMi1jZWFmMjE0N2ZjNzUiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiLyIsInBvcnQiOiIzMjYwNSIsInBzIjoi8J+Ps++4j+KAjeKap++4j0RYQVJLIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJodHRwIiwidiI6IjIifQ==
