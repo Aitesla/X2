@@ -61,3 +61,16 @@ vless://6a59b8bb-84db-49ad-abd1-bf776b88d8dd@uaemt.mobilesell.shop:53605/?encryp
 vless://c9e1cdbf-a570-431a-d56d-abac7a4a86f1@mk.webnoein.ir:8880/?type=ws&encryption=none&flow=&host=bb.zoomit.website&path=%2F#JOIN%20%E2%9E%A1%EF%B8%8F%20%40SATORU_TEC
 
 vless://fcf889bf-c6ed-4d55-c42e-bf3eaad78a9c@mc.webnoein.ir:8880/?type=ws&encryption=none&flow=&host=dl-r.jnooobi.store&path=%2F#JOIN%20%E2%9E%A1%EF%B8%8F%20%40SATORU_TEC
+
+vmess://eyJhZGQiOiIxNjIuMTU5LjEuOTQiLCJhaWQiOiIwIiwiYWxwbiI6Imh0dHAvMS4xIiwiZnAiOiJjaHJvbWUiLCJob3N0IjoidHJlZS5ibGFua3UubWUiLCJpZCI6IjkxYTRlZDFmLWY2OTMtNDY4NS1hNmJlLWYwOTgxZDZmMjYxMyIsIm5ldCI6IndzIiwicGF0aCI6Ii93c3MyODg4NSIsInBvcnQiOiI0NDMiLCJwcyI6IkpPSU4g4p6h77iPIEBTQVRPUlVfVEVDIiwic2N5IjoiYXV0byIsInNuaSI6InJvY2twLmJsYW5rdS5tZSIsInRscyI6InRscyIsInR5cGUiOiIiLCJ2IjoiMiJ9
+
+vmess://eyJhZGQiOiIxNjIuMTU5LjI1MC4yNDYiLCJhaWQiOiIwIiwiYWxwbiI6Imh0dHAvMS4xIiwiZnAiOiJjaHJvbWUiLCJob3N0IjoidHJlZS5ibGFua3UubWUiLCJpZCI6IjkxYTRlZDFmLWY2OTMtNDY4NS1hNmJlLWYwOTgxZDZmMjYxMyIsIm5ldCI6IndzIiwicGF0aCI6Ii93c3MyODg4NSIsInBvcnQiOiI0NDMiLCJwcyI6IkpPSU4g4p6h77iPIEBTQVRPUlVfVEVDIiwic2N5IjoiYXV0byIsInNuaSI6InJvY2twLmJsYW5rdS5tZSIsInRscyI6InRscyIsInR5cGUiOiIiLCJ2IjoiMiJ9
+
+
+vmess://eyJhZGQiOiIxMDQuMjcuMS4xMjkiLCJhaWQiOiIwIiwiYWxwbiI6Imh0dHAvMS4xIiwiZnAiOiJjaHJvbWUiLCJob3N0IjoidHJlZS5ibGFua3UubWUiLCJpZCI6IjkxYTRlZDFmLWY2OTMtNDY4NS1hNmJlLWYwOTgxZDZmMjYxMyIsIm5ldCI6IndzIiwicGF0aCI6Ii93c3MyODg4NSIsInBvcnQiOiI0NDMiLCJwcyI6IkpPSU4g4p6h77iPIEBTQVRPUlVfVEVDIiwic2N5IjoiYXV0byIsInNuaSI6InJvY2twLmJsYW5rdS5tZSIsInRscyI6InRscyIsInR5cGUiOiIiLCJ2IjoiMiJ9
+
+hy2://y0qochAspE+u-HLfrip-@217.69.9.125:443/?insecure=1&sni=Google.com&obfs=salamander&obfs-password=2pU%21%26Brls%210exuP%2B%214so#H2
+
+tuic://328767e5-a8bb-4ce8-8a2d-c40bdedbd2d6:a990298c@51.75.149.47:21384/?congestion_control=bbr&udp_relay_mode=native&alpn=h3&allow_insecure=1&disable_sni=1#JOIN%20%E2%9E%A1%EF%B8%8F%20%40SATORU_TEC
+
+vless://7fa0ed5f-4c53-4fa9-af42-46fb2ca1279a@192.210.255.25:443/?type=ws&encryption=none&host=gye43o2pq94.youthinkyoucanstopmefyoudpi.site&path=%2F%3Fed%3D2048&security=tls&sni=gye43o2pq94.youthinkyoucanstopmefyoudpi.site&fp=ios#JOIN%20%E2%9E%A1%EF%B8%8F%20%40SATORU_TEC
