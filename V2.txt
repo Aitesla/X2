@@ -33,3 +33,17 @@ trojan://5f33b3c0-63b1-11ee-901b-1239d0255272@de1.test3.net:443/?type=tcp&securi
 trojan://f581ce50-63b1-11ee-bfa6-1239d0255272@fr1.test3.net:443/?type=tcp&security=tls#%F0%9F%94%B0https%3A%2F%2Ft.me%2Fnik0_tesla
 
 trojan://f2de98e0-63b2-11ee-b078-1239d0255272@ro1.test3.net:443/?type=tcp&security=tls#%F0%9F%94%B0https%3A%2F%2Ft.me%2Fnik0_tesla
+
+vless://d2176467-4879-4beb-94e9-f1fa8177d8e2@46.105.218.0:16741?mode=gun&security=reality&encryption=none&pbk=kp0my80cNyM8TPeU-LbUaU3DSlAnYkbJ9jeWI2WougM&fp=chrome&type=grpc&serviceName=&sni=ea.com&sid=6ae860e1#%F0%9F%87%AB%F0%9F%87%B7https%3A%2F%2Ft.me%2Fnik0_tesla
+
+vless://faadae77-1316-46e3-8524-0bd58b300a81@49.13.62.193:8088?mode=gun&security=reality&encryption=none&pbk=WhWa8mRmPsCw5CI2Vsem57h0oYGfi1nucgToOhfx1Uw&fp=firefox&type=grpc&serviceName=&sni=www.coinmarketcap.com&sid=04b5d922#%F0%9F%87%A9%F0%9F%87%AAhttps%3A%2F%2Ft.me%2Fnik0_tesla
+
+vless://d22d221a-a8c4-4f1b-b248-6ac1f0b55d69@141.98.233.36:2087?mode=gun&security=reality&encryption=none&pbk=GicA8fPbS9LksttApqa8gzOstomRFncKNoYGLCOqQF8&fp=chrome&type=grpc&serviceName=&sni=www.speedtest.net&sid=fc805835#%F0%9F%87%B7%F0%9F%87%BAhttps%3A%2F%2Ft.me%2Fnik0_tesla
+
+vless://ef8890a0-7d18-4987-90e4-b4adbbf8ffd8@45.141.149.131:48093?mode=gun&security=reality&encryption=none&pbk=vP1UPRq3jzcETQwbsANUPaStwZpJO_hiHIkgVcqK0Tk&fp=chrome&type=grpc&serviceName=&sni=zula.ir#%F0%9F%87%B9%F0%9F%87%B7https%3A%2F%2Ft.me%2Fnik0_tesla
+
+vless://61a8054e-400e-4120-9b04-98c62f43cb27@168.119.243.238:2087?mode=gun&security=reality&encryption=none&pbk=t7hAdop55Mnv5UzgpEYSezXGCtMEO_RHZo-fs545Vmk&fp=firefox&type=grpc&serviceName=&sni=gsmarena.com&sid=a90ee22c#%F0%9F%94%B0https%3A%2F%2Ft.me%2Fnik0_tesla
+
+vless://2402c54c-1008-4cd0-c7fa-abfea8ffe8ab@77.91.84.236:33701?path=%2F&security=reality&encryption=none&pbk=6wecPj3LRMPqMITNIKSS4PuAL16Qp6AtOC-Cx3XNC3o&fp=chrome&type=http&sni=www.speedtest.net&sid=a8#%F0%9F%94%B0https%3A%2F%2Ft.me%2Fnik0_tesla
+
+vless://96c9e71c-8549-4d16-8dd4-b0af89586959@116.203.213.66:51518?mode=gun&security=reality&encryption=none&pbk=TjUDnr1MqDVC_XOBkB4cqtPsaKp-w3NVookK4LACY2s&fp=chrome&type=grpc&serviceName=&sni=ea.com&sid=6eb7ef21#%F0%9F%94%B0https%3A%2F%2Ft.me%2Fnik0_tesla
