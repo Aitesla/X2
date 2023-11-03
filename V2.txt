@@ -1,49 +1,21 @@
-sn://wg?eNpjYmBgMLSw0DM0NNGztNAz37lfmoFhp6G5kZ6hmZ6BnpG-sRGXkZmBmZWJuYGBlaGhgZWFgVmiVaKJgaGViaWZpZW5iYWFlYlJSoq-oZHFWm3_Mlf_QJekogCLSP3kXJPwAI_cEGOzdEMXn4Ik7Qg_fZ_EzAj3VG1Hg0jbtUm5Ef7O2m6GbhWuvm6WKZWZ3kYepvqGwaElVR4GXqVh-aaGGUblAWnplfm2jQysDAxeQcHnGYEOnuiQmZeZnV-SWpyT-Li59dGctb4hfo2NAJWWOsk
+vless://e36ae1be-313a-44a3-aab7-fd4b58f7e8a3@51.222.85.200:443?mode=gun&security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&fp=chrome&type=grpc&serviceName=xyz&sni=discordapp.com#V%CD%87%CC%BFI%CD%87%CC%BFP%CD%87%CC%BF%40inikotesla%E2%8D%9F%5BVLESS+-+grpc%5D
 
-sn://wg?eNpjYmBgMLSw0DM0NNGztNAzMtpSwMzAsNPQ3EjP0EzPQM9I39iIy8jMwMzKxNzAwMrQ0MDKwsDYxMrcNDXZysTM0NTKKNEyxcokxdJc39DIYq2jc1JFcKqvaYGlj0twsEuIcX5YYVGOaWiVdkV-RGVyRHhShVlKeJKrv7Gv7dqk3Ah_Z203Q7cKV183y5TKTG8jD1N9w-DQkioPA6_SsHxTwwyj8oC09Mp820YGVgaGRkagcyc5ZOZlZueXpBbnJD5ubn00Z62jS7BPYyMAmNA7Hw
+vless://e36ae1be-313a-44a3-aab7-fd4b58f7e8a3@51.222.85.200:443?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=cdn.discordapp.com#V%CD%87%CC%BFI%CD%87%CC%BFP%CD%87%CC%BF%40inikotesla%E2%8D%9F%5BVLESS+-+tcp%5D
 
-tuic://2209d482-3dbb-44da-817a-ddc2c8f27daa:2aaae510@tui881hqp.youthinkyoucanstopmefyoudpi.site:25172/?congestion_control=bbr&udp_relay_mode=quic&alpn=h3#%E3%83%B3%40inikotesla
+vless://91f25362-3aae-4978-81ae-40e22a5b2608@141.94.21.180:443?mode=gun&security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&fp=chrome&type=grpc&serviceName=xyz&sni=discordapp.com#V%CD%87%CC%BFI%CD%87%CC%BFP%CD%87%CC%BF%40inikotesla%E2%8D%9F%5BVLESS+-+grpc%5D
 
-tuic://2209d482-3dbb-44da-817a-ddc2c8f27daa:2aaae510@45.67.35.33:25172/?congestion_control=bbr&udp_relay_mode=native&alpn=h3&allow_insecure=1&disable_sni=1#%E3%83%B3%40inikotesla
+vless://91f25362-3aae-4978-81ae-40e22a5b2608@141.94.21.180:443?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=discordapp.com#V%CD%87%CC%BFI%CD%87%CC%BFP%CD%87%CC%BF%40inikotesla%E2%8D%9F%5BVLESS+-+tcp%5D
 
-hy2://y0qochAspE+u-HLfrip-@217.69.9.125:443/?insecure=1&sni=Google.com&obfs=salamander&obfs-password=2pU%21%26Brls%210exuP%2B%214so#%E3%83%B3%40inikotesla
+vless://19b5f5d5-3fb8-40f0-986d-f168a35e2746@65.109.200.95:443?mode=gun&security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&fp=chrome&type=grpc&serviceName=xyz&sni=discordapp.com#V%CD%87%CC%BFI%CD%87%CC%BFP%CD%87%CC%BF%40inikotesla%E2%8D%9F%5BVLESS+-+grpc%5D
 
-tuic://738e1d25-f88e-4409-904b-9d2235afb84d:1f08834422e4c179@94.228.165.186:8443/?congestion_control=bbr&udp_relay_mode=native&sni=www.apple.com&alpn=h3&allow_insecure=1#%E3%83%B3%40inikotesla
+vless://19b5f5d5-3fb8-40f0-986d-f168a35e2746@65.109.200.95:443?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=discordapp.com#V%CD%87%CC%BFI%CD%87%CC%BFP%CD%87%CC%BF%40inikotesla%E2%8D%9F%5BVLESS+-+tcp%5D
 
-sn://wg?eNpjYmBgMDQz0jM0tdQztATShlvbZRkYdhqaA9lmegZ6RvrGRlxGZgZmVibmBgZWhoYGVhapKUZW5knGplapRmkmViaplhZWxuapifqGRhZrK91KkvwrM_xTDRydowqCHDMrndzzXTJSLMxyvQLznYoMqsINA4u13Qzykm3XJuVG-Dtruxm6Vbj6ulmmVGZ6G3mY6hsGh5ZUeRh4lYblmxpmGJUHpKVX5ts2MrAyMDiZaD9iBDq593HzZofMvMzs_JLU4pzExkYASSQ50A
+hysteria://51.158.54.46:11926/?insecure=1&peer=youku.com&auth=Trz2alKwzCImRAXI3nXfpo1ylpHfqOL8s1vageWKoyjjvWeMVs&upmbps=11&downmbps=55&alpn=h3#V%CD%87%CC%BFI%CD%87%CC%BFP%CD%87%CC%BF%40inikotesla%E2%8D%9F
 
-trojan://6847f901-3938-4083-9fd9-2de96bcb6b9f@45.76.92.15:443/?type=grpc&serviceName=JEZzetaLe13hEVQ2ofHRIQNu6&security=tls&sni=hdfy2.foriran.me&alpn=h2&fp=chrome#%E3%83%B3%40inikotesla
+hy2://y0qochAspE+u-HLfrip-@217.69.9.125:443/?insecure=1&sni=Google.com&obfs=salamander&obfs-password=2pU%21%26Brls%210exuP%2B%214so#V%CD%87%CC%BFI%CD%87%CC%BFP%CD%87%CC%BF%40inikotesla%E2%8D%9F
 
-vmess://eyJhZGQiOiJ3aG8uaW50IiwiYWlkIjoiMCIsImFscG4iOiJoMiIsImZwIjoiY2hyb21lIiwiaG9zdCI6IiIsImlkIjoiYjJmYmFlYjAtZTI3Yi00NDM0LWE4ZTMtOWM1YWQ0MTg4NWU2IiwibmV0IjoiZ3JwYyIsInBhdGgiOiJrV05zWVNCeWM4MnNOdnZzUHFvdnNuaCIsInBvcnQiOiI0NDMiLCJwcyI6IuODs0Bpbmlrb3Rlc2xhIiwic2N5IjoiY2hhY2hhMjAtcG9seTEzMDUiLCJzbmkiOiJoZGZ5MXN1YmxpbmtjMS5jcGlvbmxpbmUuY2MiLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiIiwidiI6IjIifQ==
+sn://wg?eNpjYmBgMLSw0DM0NNGztNAzMtqSx8zAsNPQ3EjP0EzPQM9I39iIy8jMwMzKxNzAwMrQ0MDKwsDYxMrcNDXZysTM0NTKKNEyxcokxdJc39DIYq2jc1JFcKqvaYGlj0twsEuIcX5YYVGOaWiVdkV-RGVyRHhShVlKeJKrv7Gv7dqk3Ah_Z203Q7cKV183y5TKTG8jD1N9w-DQkioPA6_SsHxTwwyj8oC09Mp820YGVgaGRkagc6eFnW0_s98TRASACIfMvMzs_JLU4pzER73zGxsBu1lBgQ
 
-trojan://b2fbaeb0-e27b-4434-a8e3-9c5ad41885e6@104.238.190.156:443/?type=grpc&serviceName=Qz8F1WYNvvsPqovsnh&security=tls&sni=hdfy1d1.cpi2hidd.eu.org&alpn=h2&fp=chrome#%E3%83%B3%40inikotesla
+sn://wg?eNpjYmBgMLSw0DM0NNGzNNcz3DyFl4Fhp6G5kZ6hmZ6BnpG-sRGXkZmBmZWJuYGBlaGhgZWFiYWZVaqJibGVsZGpoVVSkoGpVWqicbK-oZHFWk9HV8fA8mLjFP_g9NywfO3UwuTgTC8P_3Kv9Mw89wCnkoBQ97TAVHePXFfbtUm5Ef7O2m6GbhWuvm6WKZWZ3kYepvqGwaElVR4GXqVh-aaGGUblAWnplfm2jQysDAzhIRmvGYEOnhZ2tv3Mfk8QEQAiHDLzMrPzS1KLcxIf9c5vbAQAnIRDOw
 
-trojan://b2fbaeb0-e27b-4434-a8e3-9c5ad41885e6@104.238.190.156:443/?type=grpc&serviceName=Qz8F1WYNvvsPqovsnh&security=tls&sni=hdfy1d1.cpionline.co&alpn=h2&fp=chrome#%E3%83%B3%40inikotesla
-
-trojan://3835cfea-817c-4712-859f-5a31782c733e@hdfy4s2d1.foriran.me:443/?type=grpc&serviceName=wftxg3sGs1MX2tHg3JUrRifM&security=tls&sni=hdfy4s2d1.foriran.me&alpn=h2&fp=chrome#%E3%83%B3%40inikotesla
-
-trojan://3835cfea-817c-4712-859f-5a31782c733e@104.17.57.126:443/?type=grpc&serviceName=wftxg3sGs1MX2tHg3JUrRifM&security=tls&sni=hdfy4s2c2.foriran.trade&alpn=h2&fp=chrome#%E3%83%B3%40inikotesla
-
-vless://3835cfea-817c-4712-859f-5a31782c733e@hdfy4d1.foriran.eu.org:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=ideasbeyondborders.org&alpn=http%2F1.1&fp=chrome&security=reality&pbk=RMmaiRZiME6FFmpxYy_cs8ndghgw5TClsW0wknHU_wM&sid=8b17f971d3&packetEncoding=xudp#%E3%83%B3%40inikotesla
-
-trojan://01596265-168b-46a7-bcb7-25662c7a9546@hdfy7d1.cpi2hidd.eu.org:443/?type=grpc&serviceName=fYn1ncaQMA1foaK1hpquM&security=tls&sni=hdfy7d1.cpi2hidd.eu.org&alpn=h2&fp=chrome#%E3%83%B3%40inikotesla
-
-trojan://01596265-168b-46a7-bcb7-25662c7a9546@zula.ir:443/?type=grpc&serviceName=fYn1ncaQMA1foaK1hpquM&security=tls&sni=hdfy7c1.foriran2.eu.org&alpn=h2&fp=chrome#%E3%83%B3%40inikotesla
-
-vless://01596265-168b-46a7-bcb7-25662c7a9546@zula.ir:443/?type=grpc&encryption=none&serviceName=gdeYIFYm31zmtMA1foaK1hpquM&security=tls&sni=hdfy7c1.foriran2.eu.org&alpn=h2&fp=chrome&packetEncoding=xudp#%E3%83%B3%40inikotesla
-
-vless://00a00142-ff5b-4951-ae7d-e518d838b458@104.17.57.254:443/?type=grpc&encryption=none&serviceName=6M6a1gSi0qpoMWdsn5BZb8&security=tls&sni=hdfy8c1.foriran.me&alpn=h2&fp=chrome&packetEncoding=xudp#%E3%83%B3%40inikotesla
-
-trojan://6847f901-3938-4083-9fd9-2de96bcb6b9f@hdfy2.foriran.me:443/?type=grpc&serviceName=JEZzetaLe13hEVQ2ofHRIQNu6&security=tls&sni=hdfy2.foriran.me&alpn=h2&fp=chrome#%E3%83%B3%40inikotesla
-
-trojan://cda03b10-68ec-11ee-a7bc-1239d0255272@fr1.test3.net:443?security=tls&headerType=none&type=tcp#%E3%83%B3%40inikotesla
-
-trojan://f70138a0-68ec-11ee-a4e7-1239d0255272@de1.test3.net:443?security=tls&headerType=none&type=tcp#%E3%83%B3%40inikotesla
-
-trojan://2218d790-68ed-11ee-a684-1239d0255272@uk1.test3.net:443?security=tls&headerType=none&type=tcp#%E3%83%B3%40inikotesla
-
-vless://66822b51-b264-427d-91c7-92da2953506e@141.94.21.180:443?mode=gun&security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&fp=chrome&type=grpc&serviceName=xyz&sni=cdn.discordapp.com#%E3%83%B3%40inikotesla
-
-vless://95a72cb8-c7c3-4dcb-9751-e53dd911f1e5@65.109.200.95:443?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=cdn.discordapp.com#%E3%83%B3%40inikotesla
-
-vless://a09373e2-e120-457d-9ec9-ea7fe8bedb52@185.125.171.13:8443?mode=gun&security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&fp=chrome&spx=%2F%40inikotesla%40inikotesla%40inikotesla&type=grpc&serviceName=g2com&sni=partner.g2.com#%F0%9F%92%A6%40inikotesla+%5BVLESS+-+grpc%5D
+sn://wg?eNpjYmBgMLSw0DM0NNGzBFIWm6fwMjDsMDQ30jM00zPQM9I3NuIyMjMwszIxNzCwMjQ0sLJIS0u0SrSwMLRKTLW0sDIHyhkbJBroGxpZrLXw9g7OCvdwrbLwSzMrNXPVzi4IrfLN8HPzNfMwNY2yyHLKK3cJya4IMTKxXZuUG-HvrO1m6Fbh6utmmVKZ6W3kYapvGBxaUuVh4FUalm9qmGFUHpCWXplv28jKysBQ5eb-lRHo4GlhZ9vP7PcEEQEgwiEzLzM7vyS1OCfxUe_8xkYAVQZCbg
