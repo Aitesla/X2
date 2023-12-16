@@ -1,21 +1,7 @@
-trojan://e6eabb40-7c20-11ee-9802-1239d0255272@tr.test3.net:443?security=tls&headerType=none&type=tcp#V%CD%87%CC%BFI%CD%87%CC%BFP%CD%87%CC%BF%40inikotesla%E2%8D%9F
+vless://ceb5aa14-094b-4878-de2d-5f4b2bea0a3e@ping.vaslshod.com:443?security=tls&encryption=none&headerType=none&type=tcp#AliTesla-VIP
 
-trojan://c09f0960-7c20-11ee-967b-1239d0255272@51.210.182.170:443?security=tls&headerType=none&type=tcp#V%CD%87%CC%BFI%CD%87%CC%BFP%CD%87%CC%BF%40inikotesla%E2%8D%9F
+vless://0aae7c92-bb42-4919-fadc-0bce4827826b@api.bolagskontaktstockholm.se:443?security=tls&encryption=none&headerType=none&type=tcp#AliTesla-VIP
 
-trojan://your_password@54.93.172.88:443?security=tls&headerType=none&type=tcp&sni=aws-ge-frankfurt-1.f1rocketnode.com#V%CD%87%CC%BFI%CD%87%CC%BFP%CD%87%CC%BF%40inikotesla%E2%8D%9F
-
-vless://6ca1d530-2b65-4c91-9201-7646d9400edf@51.222.85.200:443?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=discordapp.com#C.TESLA
-
-vless://1d08bfe4-2d28-4aea-9b61-f742aa4b3c92@146.59.126.154:443?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=discordapp.com#P.TESLA
-
-vless://6ca1d530-2b65-4c91-9201-7646d9400edf@51.222.85.200:443?mode=gun&security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&fp=chrome&type=grpc&serviceName=xyz&sni=cdn.discordapp.com#X.TESLA
-
-vless://1d08bfe4-2d28-4aea-9b61-f742aa4b3c92@146.59.126.154:443?mode=gun&security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&fp=chrome&spx=%2F%40inikotesla%40inikotesla%40inikotesla&type=grpc&serviceName=xyz&sni=cdn.discordapp.com#Z.TESLA
-
-vless://7312aef4-0827-4c24-be2f-1bb13f916503@141.94.21.180:443?mode=gun&security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&fp=chrome&type=grpc&serviceName=xyz&sni=cdn.discordapp.com#F.TESLA
-
-vless://7312aef4-0827-4c24-be2f-1bb13f916503@141.94.21.180:443?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=cdn.discordapp.com#S.TESLA
-
-vless://32fdd6af-4aef-4018-90cc-ee6f63f1e2c4@api.bolagskontaktstockholm.se:443?security=tls&encryption=none&headerType=none&type=tcp#E.TESLA
+vless://7a1441ea-d3c3-4316-d2df-968d55b6536a@us.vaslshod.com:443?security=tls&encryption=none&headerType=none&type=tcp#AliTesla-VIP
 
 hy2://RhBlRjqD5I97szf87gQR662r6cV5yOK2@195.128.240.251:80/?insecure=1&obfs=salamander&obfs-password=8w4jlX268iItraZSsWibq5gW0ZB1N0h2#T.TESLA
